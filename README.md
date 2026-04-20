@@ -1,65 +1,26 @@
-# My Portfolio Website - Overview 🚀
+# Kumkum Singh - Data Analyst Portfolio
 
-This repository contains the open-source version of my personal portfolio website.  
-Feel free to explore the code and use it for learning and inspiration.
+Welcome to the source code for my personal portfolio website!
 
----
+This repository contains my portfolio, where I showcase my experience and projects in the field of **Data Analysis** and **Data Engineering**.
 
-## ⚠️ Usage Notice
+## 🚀 About Me
+I am a results-driven Data Analyst with hands-on expertise in SQL, Python, Power BI, and ETL pipeline development. I specialize in transforming complex datasets into actionable business insights using statistical analysis and predictive modeling.
 
-This project is shared for learning purposes only.
+## 🛠️ Tech Stack
+- **Languages:** Python, SQL, JavaScript, TypeScript
+- **Tools:** Power BI, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- **Frameworks/Other:** React, Three.js, ETL Pipelines, PySpark, Azure (AZ-900)
 
-Please do NOT:
-- Clone or replicate the full website or design
-- Repost it with minor content changes
-- Use this project for commercial/client work
-- Create tutorials or content using this exact project
+## 📊 Featured Projects
+1. **Blinkit Sales & Customer Analysis Project** (Power BI, Python, A/B Testing)
+2. **IPL Match Data Analytics Dashboard** (Python, Scikit-learn, Power BI, REST APIs)
+3. **USA Bank Loan Risk Analysis** (Python, SQL, Power BI, Predictive Analytics)
 
-If you use parts of the code, you must provide proper credit linking back to the original repository.
+## 🌐 Live Website
+Check out my live portfolio here: [Insert Live Link Here]
 
-Build your own version — don’t just copy.
-
-— Moncy Yohannan
-
----
-
-## 🛠️ Instructions
-
-I have modified the GSAP Club plugins using trial versions.  
-⚠️ Note: Trial plugins cannot be used for production or hosting.
-
-For official GSAP Club plugins, refer here:  
-https://gsap.com/docs/v3/Installation/
-
----
-
-## ⚙️ Tech Stack
-
-React • TypeScript • GSAP • Three.js • WebGL • HTML • CSS • JavaScript
-
----
-
-## 🎨 Assets Usage
-
-Some 3D assets included in this repository are free to use for learning purposes.
-
-However:
-
-- The original 3D avatar used on my live portfolio is NOT included in this repository
-- That avatar is a custom asset created over ~1 month
-- It is not open source and not available for reuse
-
-Any usage, extraction, or redistribution of that avatar from my live website is strictly prohibited.
-
----
-
-![Protfolio-Preview](https://github.com/user-attachments/assets/3c4557e7-6392-4928-b8a9-7b2476ef4edd)
-
----
-
-## 📄 License
-
-This project is licensed under the Personal Portfolio License (PPL) v1.0.
-
-See the LICENSE file for full details
-
+## 📬 Contact
+- **Email:** singhkumkum769@gmail.com
+- **LinkedIn:** [linkedin.com/in/kumkum-singh-b67a64259](https://linkedin.com/in/kumkum-singh-b67a64259)
+- **GitHub:** [github.com/kukkigithub](https://github.com/kukkigithub)
